@@ -142,7 +142,7 @@ Linguagens & Tecnologias: `TypeScript`, `JavaScript`, `NodeJs`, `Mongo DB`, `My 
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cibelemartinssss/)](<[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/cibelemartinssss/)>)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmsoftwaremidiaps@gmail.com)](mailto:cmsoftwaremidiaps@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-/CibeleMartinsDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cibelemartinssss/)](<[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/cibelemartinssss/)>)
+[![Gmail Badge](https://img.shields.io/badge/-cmsoftwaremidiaps@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmsoftwaremidiaps@gmail.com)](mailto:cmsoftwaremidiaps@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/CibeleMartinsDev?label=follow&style=social)](<[LINK-DO-SEU-GITHUB](https://github.com/CibeleMartinsDev)>)
 [![WhatsApp](https://img.shields.io/badge/-CibeleMartinsDev-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://w.app/1GcCdM)]
