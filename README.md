@@ -131,6 +131,7 @@ Projetos em destaque: [Investalk](https://investalk.bb.com.br/)
 Linguagens & Tecnologias: `Next Js`, `GraphQL`
 Projetos em destaque: [Lupper](https://lupper.com.br/)
 <br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQEr9DAewtvRSQ/company-logo_200_200/0/1633706590981/resilia_educacao_logo?e=2147483647&v=beta&t=oR3-fhOgb76f2-bhF-pQfSSCUPIQUTWW7DcZDWUCeng"/>](https://www.resilia.com.br/)
 
