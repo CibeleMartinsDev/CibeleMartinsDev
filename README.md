@@ -1,4 +1,5 @@
 # CibeleMartinsDev
+Recentemente perdi o acesso ao meu antigo GitHub https://github.com/CibeleMartins, então criei este aqui.
 
 ![](https://komarev.com/ghpvc/?username=CibeleMartinsDev&color=006bed)
 
@@ -31,7 +32,7 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
 ![StripeJs](https://img.shields.io/badge/-Stripejs-333333?style=flat&logo=stripejs)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-![Cloud Services](https://img.shields.io/badge/-Microsof-333333?style=flat&logo=Microsof)
+![Azure Cloud Services](https://img.shields.io/badge/-Microsoft-333333?style=flat&logo=Microsoft)
 
 **Utilidades**
 
@@ -131,10 +132,10 @@ Linguagens & Tecnologias: `Next Js`, `GraphQL`
 Projetos em destaque: [Lupper](https://lupper.com.br/)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://play-lh.googleusercontent.com/AeQ5-cjosCzRfCI4SiT8n0vUcAqWxOnaRegKsYoZ0Ysqc6W7JfMnoz7XeDgWjjA-260=w240-h480-rw"/>](https://lupper.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4D0BAQEr9DAewtvRSQ/company-logo_200_200/0/1633706590981/resilia_educacao_logo?e=2147483647&v=beta&t=oR3-fhOgb76f2-bhF-pQfSSCUPIQUTWW7DcZDWUCeng"/>](https://www.resilia.com.br/)
 
 **Bootcamp Full Stack Developer Jr** \
-[**Wigo Tecnologia LTDA**](https://www.resilia.com.br/) • Full-time \
+[**Resilia Educação**](https://www.resilia.com.br/) • Full-time \
 Linguagens & Tecnologias: `TypeScript`, `JavaScript`, `NodeJs`, `Mongo DB`, `My SQL`, `Postgress`, `React Js`
 <br/>
 
