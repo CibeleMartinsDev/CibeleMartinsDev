@@ -8,7 +8,7 @@ Recentemente perdi o acesso ao meu antigo GitHub https://github.com/CibeleMartin
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 - 💼 Trabalhando como Desenvolvedora de Aplicações Full Stack na IBM.
-- 🌱 Aprendendo mais sobre Cloud, Microfrontends e Stripe Js.
+- 🌱 Aprendendo mais sobre Cloud, Microfrontends
 
 ## Minhas Skills
 
