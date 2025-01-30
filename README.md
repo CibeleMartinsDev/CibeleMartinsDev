@@ -120,7 +120,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Application Developer** \
 [**IBM**](https://www.ibm.com/br-pt) • Full-time \
 Linguagens & Tecnologias: `Java`, `Angular`, `TypeScript`, `JavaScript`, `NodeJs`, `Next Js`, `React Js`, `React Native`\
-Projetos em destaque: [Investalk](https://investalk.bb.com.br/)
+Projetos em destaque: [Investalk](https://investalk.bb.com.br/), [Portal de Investimentos BB](https://investimentos.bb.com.br)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://play-lh.googleusercontent.com/AeQ5-cjosCzRfCI4SiT8n0vUcAqWxOnaRegKsYoZ0Ysqc6W7JfMnoz7XeDgWjjA-260=w240-h480-rw"/>](https://lupper.com.br/)
